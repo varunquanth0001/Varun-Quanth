@@ -1,5 +1,5 @@
-# Varunquanth0001
-![logo](https://github.com/varunquanth0001/Varun-Quanth/blob/main/banner-software-development-programming-web-site-vector-38004015.webp)
+# Varun quanth
+![logo](https://github.com/varunquanth0001/Varunquanth0001/blob/main/banner-software-development-programming-web-site-vector-38004015.webp)
 
 <h1 align="center">Hi 👋, I'm Varun Quanth</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
