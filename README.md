@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **varunquanth0001@gmail.com**
 
-- ⚡ Fun fact **I am funny😂**
+- ⚡ Fun fact **Bhai shod na tu kya hi karega jaankr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
